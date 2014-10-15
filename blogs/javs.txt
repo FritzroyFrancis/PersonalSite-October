@@ -1,0 +1,33 @@
+1	Correct				Source File				Language Fundamentals		Basic		00:01:01
+2	Incorrect			Source Elements				Language Fundamentals		Basic		00:01:03
+3	Correct				Primitive Range				Language Fundamentals		Basic		00:00:50
+4	Incorrect			Application Entry Point			Language Fundamentals		Basic		00:00:36
+5	Correct				Access Modifier				Language Fundamentals		Basic		00:00:30
+6	Correct				Classes in Java Language Package	Language Fundamentals		Basic		00:00:37
+7	Incorrect			Condition Construct			Language Fundamentals		Basic		00:00:51
+8	Incorrect			Argument Passing			Language Fundamentals		Basic		00:00:23
+9	Incorrect			String Equality				Language Fundamentals		Basic		00:00:47
+10	Correct				Abstract Method				Language Fundamentals		Intermediate	00:01:47
+11	Correct				Exception Override			Language Fundamentals		Advanced	00:01:06
+12	Correct				Identifier				Language Fundamentals		Basic		00:00:47
+13	Correct				Panel Default Layout			Abstract Window Toolkit [AWT]	Basic		00:00:16
+14	Correct				Frame Default Layout			Abstract Window Toolkit [AWT]	Basic		00:00:32
+15	Correct				Default Constructor			Language Fundamentals		Basic		00:00:13
+16	Correct				Class Used as an Applet/Application	Language Fundamentals		Basic		00:00:09
+17	Correct				Array Size				Language Fundamentals		Basic		00:00:27
+18	Correct				String Manipulation			Language Fundamentals		Basic		00:01:21
+19	Incorrect			Switch Expression			Language Fundamentals		Basic		00:00:43
+20	Correct				Exception Handling			Language Fundamentals		Intermediate	00:00:53
+21	Correct				Method Overload and Override		Language Fundamentals		Intermediate	00:00:27
+22	Incorrect			File Class				Language Fundamentals		Advanced	00:02:08
+23	Incorrect			Event Delegation			Abstract Window Toolkit [AWT]	Basic		00:00:33
+24	Correct				Serializable Interface			Language Fundamentals		Advanced	00:01:14
+25	Incorrect			Serialization				Language Fundamentals		Basic		00:01:43
+26	Correct				Java Language Package			Language Fundamentals		Basic		00:00:25
+27	Incorrect			BorderLayout				Abstract Window Toolkit [AWT]	Basic		00:00:48
+28	Correct				Try/Catch Blocks			Language Fundamentals		Advanced	00:01:40
+29	Incorrect			Shift Operator				Language Fundamentals		Intermediate	00:01:19
+30	Correct				String Concatenation			Language Fundamentals		Basic		00:00:29
+31	Incorrect			Wrapper Class				Language Fundamentals		Advanced	00:02:34
+32	Correct				Class Method or Variable		Language Fundamentals		Intermediate	00:01:04
+33	Correct				Threading				Language Fundamentals		Intermediate	00:00:21

@@ -1,0 +1,38 @@
+[
+    {
+        "image": "backiilife.jpg",
+		"title": "Soul II Soul -  'Back To Life' (My Remix)",
+        "description": "At the time of creating this, I just wanted to make a song that relied little on drums. Much like my usual attempts at this, it ends up being very percussive and somewhat relying on a few drumsets. When all of these instruments came together, it was like a glove.",
+        "url": "song3.mp3"
+    },
+	{        
+        "image": "itsforyou.jpg",
+		"title": "Shanice - 'It's For You' (My Remix)",
+        "description": "The acapella I used unfortunately wasn't of the best audio quality, which is no surprise, because an official one was never released. Still, I enjoy what I did so much that I decided to upload it here in spite of mixing flaws (as if that has ever stopped me before).",
+        "url": "song5.mp3"
+    },
+    {        
+        "image": "dancetonight.jpg",
+		"title": "Lucy Pearl - 'Dance Tonight' (My Remix)",
+        "description": "I'm... not too sure how to describe this one. It was more of my standard process, starting with some nice drums and having an appropriate sample to really kick it off",
+        "url": "song1.mp3"
+    },
+    {
+        "image": "findyourlove.jpg",
+		"title": "Drake - 'Find Your Love' (My Remix)",
+        "description": "The beat was originally much faster, but being the person that I am, I loved it so much more slowed down. It typically isn't my style of production, but I certainly enjoyed making it (and especially mixing)",
+        "url": "song2.mp3"
+    },
+	{
+        "image": "rocktheboat.jpg",
+		"title": "Aaliyah - 'Rock The Boat' (My Remix)",
+        "description": "I don't think I've made a beat as quickly as I've made this one. I heard a small portion of music in a song, and I played along with it. The vocals worked with the results like [insert similie regarding two items usually eaten together here].",
+        "url": "song4.mp3"
+    },
+	{
+        "image": "behere.jpg",
+		"title": "Raphael Saddiq - 'Be Here' (My Remix)",
+        "description": "I hope I didn't make this too slow, featuring D'Angelo.",
+        "url": "song6.mp3"
+    }
+]

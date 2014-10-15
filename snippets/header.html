@@ -1,0 +1,231 @@
+<style>
+	#header-left
+	{
+		position:absolute;
+		height: auto;
+		left: 30px;
+		top: 20%;
+		color: white;
+	}
+	
+	#header-right
+	{
+		position:absolute;
+		float: right;
+		width: 300px;
+		top: 40px;
+		right: 5%;
+	}
+	
+	#nav-list
+	{
+		list-style-type:none;
+		font-family: Geosans;
+		width: 100%;	
+	}
+	
+	#nav-list li
+	{
+		height: 30px;
+		width: 130px;
+	}
+	
+	#nav-list li span
+	{
+		vertical-align: middle;
+	}
+	
+	#nav-list li:hover
+	{
+		color: #AA0000;
+		
+	}
+	
+	#nav-list li ul
+	{
+		position: relative;
+		z-index: 3;
+		width: 130px;
+		margin-top: 10px;
+	}
+	
+	#nav-list li ul li
+	{
+		list-style-type: none;
+		width: 130px;
+		background-color: rgba(255, 255, 255, .7);
+		display: none;
+	}
+	
+	#nav-list li ul li:hover > a
+	{
+		color: #AA0000;
+	}
+	
+	#nav-list li ul li a
+	{
+		text-decoration: none;
+		display: block;
+		height: 30px;
+		line-height: 25px;
+		color: black;
+		text-align:center;
+	}
+	
+	#categories
+	{
+		position: relative;
+		float: left;
+		text-align:center;
+	}
+	
+	#categories:hover ul li
+	{
+		display: block;
+	}
+	
+	#social
+	{
+		position: relative;
+		float: right;
+		text-align:center;
+	}
+	
+	#categories:hover, #social:hover
+	{
+		cursor: pointer;
+	}
+	
+	
+	#social ul
+	{
+		position: relative;
+	}
+	
+	#social:hover ul li
+	{
+		display: block;
+	}
+	
+	#Name
+	{
+		width: 160px;
+		position: absolute;
+		top: 10px;		
+	}
+	
+	#Name a
+	{
+		top: 25px;
+		font-size: 36px;
+		font-family: Geosans;
+		text-decoration: none;
+		color: white;
+	}
+	
+	@media screen and (max-width: 1100px)
+	{
+		#Name
+		{
+			position: absolute;
+			top: 15px;	
+		}
+		
+		#Name a
+		{
+			font-size: 30px;
+		}
+	}
+	
+	@media screen and (max-width: 480px)
+	{
+		#header-right
+		{
+			background-image: url('http://www.mymanfly.com/images/menu.png');
+			background-size:cover;
+			width: 40px;
+			height: 40px;
+		}
+		
+		#categories
+		{
+			margin-top: 40px;
+		}
+		
+		#categories, #social
+		{
+			float: none;
+			display: none;
+		}
+		
+		#header-right:hover
+		{
+			display: block;
+			background-image: url('http://www.mymanfly.com/images/menu-hover.png');			
+		}
+		
+				
+		#header-right:hover #categories, #header-right:hover #social
+		{
+			display: block;
+		}
+		
+		#nav-list li
+		{
+			width: 110px;
+			height: 35px;
+			margin-left: -50px;
+			background-color: rgba(255, 255, 255, .8);
+			color: black;					
+		}
+		
+		#nav-list li ul
+		{
+			margin-top: -20.5px;
+			left: -80px;
+		}	
+		
+		#nav-list li ul li
+		{
+			left: -63px;
+			border-right: 1px solid black;	
+		}					
+	}	
+	
+	@media screen and (max-width: 1100px)
+	{
+		#header
+		{
+			background-color: rgba(0, 0, 0, 0.6);
+		}
+	}
+</style>
+
+<script>
+	/*if(document.title == "Fritzroy F.")
+	{
+		document.getElementById("categories").style.display = "none";
+	}*/
+</script>
+<div id="header-left">
+        	<div id="Name"><a href="../index.php">Fritzroy F.</a></div>
+</div>
+<div id="header-right">
+	<ul id="nav-list">
+    	<li id="categories"><span>Categories</span>
+        	<ul>
+            	<li><a href="../music/index.php">music</a></li>
+                <li><a href="../games/index.php">games</a></li>
+                <li><a href="../projects/index.php">projects</a></li>
+                <li><a href="../blogs/index.php">blog</a></li>
+           	</ul>
+        </li>
+        <li id="social"><span>Social</span>
+			<ul>
+             	<li><a href="http://www.twitter.com/mymanfly">twitter</a></li>
+                <li><a href="http://www.instagram.com/mymanfly">instagram</a></li>
+                <li><a href="https://plus.google.com/113495620167771865897">google+</a></li>                    
+            </ul>
+        </li>                
+	</ul>
+</div> 

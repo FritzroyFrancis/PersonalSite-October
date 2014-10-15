@@ -1,0 +1,18 @@
+[
+	{
+        "section": "music",
+        "description": "Music was the hand that reached out for me when no one else did. I've made instrumentals over the years and picked the hobby back up again once college ended. Click here to hear some of it!"
+	},
+	{        
+        "section": "games",
+        "description": "I'm a pretty big fan of video games. I have not developed anything game-related - although it is in the plans. Until then (you can also consider 'then' as 'when I finish this site'), I will just fill this page up with a quick thought of mine."
+    },
+    {        
+        "section": "projects",
+        "description": "If I got a degree for doin programming, I might as well use it for something, right? Considering what I have tried to do is not yet ready to show up, this will be the 'coming soon' section... plus, I haven't really finished it anyway"
+    },
+    {
+        "section": "blog",
+        "description": "I'm not one to gloat, but I have an entire section here dedicated to myself! Wait... aren't all 4 sections dedicated to me? Oh well..."
+    }
+]

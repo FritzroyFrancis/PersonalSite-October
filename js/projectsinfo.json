@@ -1,0 +1,20 @@
+[
+	{
+        "project": "Ronald McDonald House",
+        "description": "The Ronald McDonald House website was a project I worked on during my senior year in college. Most of my work was done on the front end, working with interfaces. Since it was part of a college course, development continued on for quite some time after I finished the course. However, it did give me a huge understanding of how the development workplace is and taught me the importance of communication.",
+		"url": "",
+		"image": ""
+	},
+	{
+        "project": "Red Hook Hub",
+        "description": "Red Hook Hub was an organization I met during the Hack Red Rook Hackathon in Brooklyn. It is a service dedicated towards informing the residents of the neighborhood with nearby events, local alerts and more. I also worked a (admittedly small) bit on the front-end for this website, although this was the first time I've worked with a designer.",
+		"url": "http://www.RedHookHub.com",
+		"image": ""
+	},
+	{
+        "project": "Well... Right Here, Actually",
+        "description": "You would think there would be more than three... and you'd actually be right. I've done others, but... ha, they certainly wouldn't make me look good. This certainly makes an awfully short story. This site, however, is different. I did not just work on the front end of a project. I worked by myself on the entire thing. If you'd like, I have my last design for this same website as a zip file.",
+		"url": "",
+		"image": ""
+	}
+]
